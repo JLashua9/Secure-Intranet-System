@@ -1,6 +1,6 @@
 # Intranet System
 
-CS 2660 Final Project - A simple login system with different user levels.
+CS 2*** Final Project - A simple login system with different user levels.
 
 ## What It Does
 
