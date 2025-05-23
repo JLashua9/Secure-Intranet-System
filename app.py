@@ -281,19 +281,6 @@ def update_access_level():
         return redirect(url_for('dashboard'))
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == '__main__':
     # Remove debug=True before submitting final version
     app.run(debug=True)
